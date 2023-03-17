@@ -1,4 +1,4 @@
-import { Tyopgraphy } from "@mui/material";
+import ChristmasLights from "components/ChristmasLights";
 
 function App() {
   return (
@@ -19,7 +19,7 @@ function App() {
         <meta name="viewport" content="initial-scale=1, width=device-width" />
       </head>
       <body>
-        <Tyopgraphy>Home</Tyopgraphy>
+        <ChristmasLights />
       </body>
     </>
   );
